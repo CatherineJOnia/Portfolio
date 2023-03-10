@@ -1,14 +1,11 @@
 import React, { Component } from "react";
 import "../css/header.css";
-// import { Icon } from "@iconify/react";
-// import angularIcon from "@iconify/icons-logos/angular-icon";
-// import reactIcon from "@iconify/icons-logos/react";
-// import vueIcon from "@iconify/icons-logos/vue";
 
 class About extends Component {
   render() {
     // if (this.props.sharedBasicInfo) {
-    //   var profilepic = "images/" + this.props.sharedBasicInfo.image;
+    //   var profilepic =
+    //     "images/TravelPic.JPG" + this.props.sharedBasicInfo.image;
     // }
     if (this.props.resumeBasicInfo) {
       var sectionName = this.props.resumeBasicInfo.section_name.about;
@@ -25,14 +22,14 @@ class About extends Component {
           <div className="row center mx-auto mb-5">
             {/* <div className="col-md-4 mb-5 center">
               <div className="polaroid">
-            <span style={{ cursor: "auto" }}>
+                <span style={{ cursor: "auto" }}>
                   <img
                     height="250px"
-                    src={profilepic}
+                    src="images/TravelPic.JPG"
                     alt="Avatar placeholder"
                   />
                 </span>
-            </div>
+              </div>
             </div> */}
 
             <div className="col-md-8 center">
