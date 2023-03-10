@@ -1,0 +1,140 @@
+body[data-theme="dark"] {
+
+   @import '../src/scss/dark-slider.scss';
+
+   .slider-tab {
+      background-color: #413f3f;
+   }
+   .styles_typicalWrapper__1_Uvh {
+      color: white;
+  }
+   .title-styles {
+      color: white;
+   }
+
+   .header-icon {
+      color: #f5f3f1;
+      opacity: 0.8;
+   }
+
+   .slider-image {
+      border: 5px solid #413f3f;
+   }
+
+   .language {
+      background-color:black;
+   }
+
+   .link-href {
+      color: white;
+   }
+
+   .project-date {
+      background-color: #2f3e46;
+      color: white;
+   }
+
+   header {
+      background-image: url("../dark-background.svg");
+	background-repeat: no-repeat;
+	  background-position: center;
+	  background-attachment: fixed;
+	  background-size: cover;
+	  height: 100vh;
+	  width: 100vw;
+      h1 {
+         color: white;
+      }
+   }
+
+   #about {
+      background-color: black;
+      h1 span {
+         color: white;
+      }
+      .polaroid span {
+         background:  #2c2c2c;
+      }
+      .card {
+         background: #2c2c2c;
+         color: white;
+      }
+      .about-back{
+         background: black;
+      }
+   }
+
+   #skills{
+      background-image: url("../dark-background.svg");
+	background-repeat: no-repeat;
+	  background-position: center;
+	  background-attachment: fixed;
+	  background-size: cover;
+	  height: 100vh;
+	  width: 100vw;
+     .skill-sec{
+      color: white;
+     }
+   }
+
+   #portfolio {
+      background: #000000;
+      .section-title {
+         color: white !important;
+      }
+      .foto div {
+         background: #2c2c2c;
+         box-shadow: 5px 5px #335c67;
+      }
+      .project-title-settings {
+         color: white;
+      }
+      h5{
+         color: white
+      }
+   }
+
+   #resume {
+      filter: brightness(80%);
+      background: rgb(0, 0, 0);
+      .section-title {
+         color: white !important;
+      }
+
+      .experience-badge {
+         background:  #6b9080 !important;
+         color: rgb(255, 255, 255);
+      }
+
+      .main-badge {
+         background: #919191 !important;
+      }
+
+      .vertical-timeline-element-date {
+         color: white;
+      }
+      .exp-section{
+         color: white;
+      }
+      .exp-date{
+         color: black;
+      }
+      .vertical-timeline-element-icon {
+         background: #a4c3b2 !important;
+      }
+      @media only screen and (max-width: 1169px) {
+         .vertical-timeline-element-date {
+            color: black;
+         }
+      }
+   }
+
+   .modal-inside .modal-content {
+      background: #5b5b5b;
+      color: white;
+   }
+
+   .close-icon {
+      color: white;
+   }
+}
