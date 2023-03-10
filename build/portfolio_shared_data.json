@@ -1,0 +1,123 @@
+{
+    "basic_info": {
+      "name": "Catherine Onia",
+      "titles": [ "Full Stack Software Engineer", "Life-Long Learner", "Full Stack Web Developer", "Life-Long Learner" ],
+      "social": [
+        {
+          "name": "github",
+          "url": "https://github.com/CatherienJOnia",
+          "class": "fab fa-github"
+        }
+      ],
+      "image": "https://imgur.com/7ef6d249-32c4-4da5-84bd-534f69f84ae0"
+    },
+    "skills": {
+      "icons": [
+        {
+          "name": "JavaScript",
+          "class": "devicon-javascript-plain",
+          "level": "70"
+        },
+        {
+          "name": "TypeScript",
+          "class": "devicon-typescript-plain",
+          "level": "70"
+        },
+        {
+          "name": "React",
+          "class": "devicon-react-original",
+          "level": "60"
+        },
+        {
+          "name": "Redux",
+          "class": "devicon-redux-original",
+          "level": "60"
+        },
+        {
+          "name": "Next.js",
+          "class": "devicon-nextjs-original-wordmark",
+          "level": "50"
+        },
+        {
+          "name": "Express.js",
+          "class": "devicon-express-original",
+          "level": "85"
+        },
+        {
+          "name": "Node.js",
+          "class": "devicon-nodejs-plain",
+          "level": "95"
+        },
+        {
+          "name": "PostgreSQL",
+          "class": "devicon-postgresql-plain",
+          "level": "75"
+        },
+        {
+          "name": "Sequelize",
+          "class": "devicon-sequelize-plain",
+          "level": "85"
+        },
+        {
+          "name": "Firebase",
+          "class": "devicon-firebase-plain",
+          "level": "85"
+        },
+        {
+          "name": "Webpack",
+          "class": "devicon-webpack-plain",
+          "level": "85"
+        },
+        {
+          "name": "Material-UI",
+          "class": "devicon-materialui-plain",
+          "level": "85"
+        },
+        {
+          "name": "CSS 3",
+          "class": "devicon-css3-plain",
+          "level": "85"
+        },
+        {
+          "name": "HTML 5",
+          "class": "devicon-html5-plain",
+          "level": "85"
+        },
+        {
+          "name": "Tailwind  CSS",
+          "class": "devicon-tailwindcss-plain",
+          "level": "85"
+        },
+        {
+          "name": "Sass",
+          "class": "devicon-sass-original",
+          "level": "85"
+        },
+        {
+          "name": "npm",
+          "class": "devicon-npm-original-wordmark",
+          "level": "85"
+        },
+        {
+          "name": "VS Code",
+          "class": "devicon-vscode-plain",
+          "level": "85"
+        },
+        {
+          "name": "Git" ,
+          "class": "devicon-git-plain",
+          "level": "85"
+        },
+        {
+          "name": "GitHub",
+          "class": "devicon-github-original",
+          "level": "85"
+        },
+        {
+          "name": "Slack",
+          "class": "devicon-slack-plain",
+          "level": "85"
+        }
+      ]
+    }
+  }

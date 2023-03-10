@@ -1,0 +1,190 @@
+{
+  "basic_info": {
+    "description_header": "Hi",
+    "description": "My name is Catherine and I'm a Full Stack Software Engineer. I'm both practiced and familiar with developing web-based applications using the PERN stack (PostgreSQL, Express.js, React, Node.js) with JavaScript as my main language.  I'm a life-long self-motivated learner and I'm always working on a new project that both challenges and reinforces my understanding of my tech stack. I'm pivoting from a unique background in Dental Hygiene where I honed skills such as Time Management, a Keen Eye for Detail, and Effective Communication, which are skills that I believe any developmental team would find valuable.  I'm excited to launch into a new career that challenges me to grow, not only as an individual, but as a professional as well. I'm interested in joining an engineering team that is passionate about the product they work on and will offer me opportunities to solve interesting problems while leveraging my passion for gaming, travel, and food. I would love to work with a team that encourages mentorship, growth, positivity, and a healthy work-life balance.",
+    "section_name": {
+      "about": "About me",
+      "projects": "Projects",
+      "skills": "Skills",
+      "experience": "Experience"
+    }
+  },
+  "projects": [
+    {
+      "title": "ChatOnia",
+      "startDate": "2023",
+      "description": "ChatOnia is a software application that emulates the functionality of the ChatGPT model, using natural language processing and machine learning techniques to generate human-like responses to user input. Developed independently in a single week, ChatOnia challenged me to learn a new tech stack and new language.  NextAuth Google authentication was implemented for secure and easy user login and registration, while Next.js 13 was utilized to enable seamless navigation and optimize the user experience.  OpenAI APIs were harnessed to personify the chat bot's responses, and FireStore Firebase was used to enable real-time chat history.  Finally, Tailwind CSS was used for styling to create a visually pleasing application.",
+      "images": [
+        "images/portfolio/ChatOnia/ChatOnia-3.png",
+        "images/portfolio/ChatOnia/ChatOnia-1.png",
+        "images/portfolio/ChatOnia/ChatOnia-2.png",
+        "images/portfolio/ChatOnia/ChatOnia-4.png"
+      ],
+      "url": "https://chatgpt-onia.vercel.app",
+      "GHurl": "https://github.com/CatherineJOnia/ChatOnia",
+      "tech": "TypeScript • React • Next.js • Firebase • Tailwind CSS • NextAuth.js • OpenAI API",
+      "technologies": [
+        {
+          "class": "devicon-typescript-plain",
+          "name": "TypeScript"
+        },
+        {
+          "class": "devicon-react-plain",
+          "name": "React"
+        },
+        {
+          "class": "devicon-nextjs-original-wordmark",
+          "name": "Next.js"
+        },
+        {
+          "class": "devicon-firebase-plain",
+          "name": "Firebase"
+        },
+        {
+          "class": "devicon-tailwindcss-plain",
+          "name": "Tailwind CSS"
+        }
+      ]
+    },
+    {
+      "title": "DinGo",
+      "startDate": "2023",
+      "description": "DinGo is a custom full-stack e-commerce site for Dinner on the Go. Created independently, DinGo was developed using PostgreSQL, Express.js, React.js, and Node.js (PERN) with the addition of JWT for user authentication and local storage for cart persistence regardless of user login staus. Using Redux Toolkit to predictably manage state and RESTful APIs together allowed for a scalable and maintainable application that provides a great user experience. Major features include administrative control over products and users, a modifiable shopping cart, a featured product carousel, and pagination.",
+      "images": [
+        "images/portfolio/DinGo/DinGo-1.png",
+        "images/portfolio/DinGo/DinGo-2.png",
+        "images/portfolio/DinGo/DinGo-3.png",
+        "images/portfolio/DinGo/DinGo-4.png",
+        "images/portfolio/DinGo/DinGo-5.png",
+        "images/portfolio/DinGo/DinGo-6.png"
+      ],
+      "url": "https://dingo-onia.onrender.com",
+      "GHurl": "https://github.com/CatherineJOnia",
+      "tech": "JavaScript • React • Redux • Express.js • Node.js • PostgreSQL • JWT • Sequelize • Material UI • HTML 5 • CSS 3",
+      "technologies": [
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        },
+        {
+          "class": "devicon-react-plain",
+          "name": "React"
+        },
+        {
+          "class": "devicon-redux-plain",
+          "name": "Redux Toolkit"
+        },
+        {
+          "class": "devicon-express-original",
+          "name": "Express.js"
+        },
+        {
+          "class": "devicon-nodejs-plain",
+          "name": "Node.js"
+        },
+        {
+          "class": "devicon-postgresql-plain",
+          "name": "PostgreSQL"
+        },
+        {
+          "class": "devicon-sequelize-plain",
+          "name": "Sequelize"
+        },
+        {
+          "class": "devicon-materialui-plain",
+          "name": "Material UI"
+        },
+        {
+          "class": "devicon-css3-plain",
+          "name": "CSS 3"
+        },
+        {
+          "class": "devicon-html5-plain",
+          "name": "HTML 5"
+        }
+      ]
+    },
+    {
+      "title": "Toad's Garden",
+      "startDate": "2023",
+      "description": "Developed and deployed by a team of four, Toad's Garden is a wholesome single-player platformer game featuring familiar characters. Players play as Toad and save the toadspeople by collecting objectives while avoiding wildlife.  Phaser 3 was used as the game's main framework, while Tiled Map Editor was used to create interactive landscapes. Modular princples were employed to componentize assets, allowing the team to reuse code rather than repeating code for each level. ",
+      "images": [
+        "images/portfolio/ToadsGarden/ToadsGarden-1.png",
+        "images/portfolio/ToadsGarden/ToadsGarden-2.png",
+        "images/portfolio/ToadsGarden/ToadsGarden-3.png",
+        "images/portfolio/ToadsGarden/ToadsGarden-4.png"
+      ],
+      "url": "https://toads-garden.onrender.com",
+      "GHurl":"https://github.com/toads-garden/toads-garden-web",
+      "tech": "JavaScript • Phaser 3 • Tiled Map Editor • Webpack",
+      "technologies": [
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        }
+      ]
+    }
+  ],
+
+  "experience": [
+    {
+      "company": "Fullstack Academy of Code - The Grace Hopper Program",
+      "title": "Software Engineer Fellow",
+      "years": "08.2022 - 02.2023",
+      "mainTech": [""],
+      "description":["Full-stack software engineering immersive student in an intensive, 17-week, 550+ hour program focused on product development fundamentals, object-oriented programming, data modeling, and team collaboration strategies. Developed a portfolio of both individual and group projects."],
+      "technologies": [
+          "JavaScript",
+          "HTML 5",
+          "CSS 3",
+          "PostGreSQL",
+          "Express.js",
+          "Sequelize",
+          "React",
+          "Redux",
+          "Node.js",
+          "Material-UI",
+          "RESTful Routing",
+          "Webpack",
+          "NPM",
+          "Git"
+      ]
+    },
+    {
+      "company": "Yama",
+      "title": "Server",
+      "years": "02.2019 - 02.2023",
+      "description":["Managed approximately 10 tables at a time, facilitating communication between 40 guests and kitchen staff. Generated over $350,000 in annual revenue for the company, and trained 100% of new employees on company culture."],
+      "mainTech": [""],
+      "technologies": ["Time Management", "Communication", "Navigating Stress and Pressure", "Sales"]
+    },
+    {
+      "company": "CPCC Dental Hygiene Clinic",
+      "title": "Dental Hygiene Intern",
+      "years": "01.2019 - 06.2021",
+      "mainTech": [""],
+      "description":["Responsible for sourcing all patients.  Performed 4-6 patient procedures per week including cleanings, x-rays, sealands and debridements. Developed and implemented individualized dental care plans for a diverse set of patients -- peridontal maintenance, pediatric, elderly, non English speaking, blind, etc.  Improved patient gingival inflammation and plaque removal by 20-40% by counseling patients on the state of their oral health and educating them on best practices for maintenance at home. Maintained a 100% patient satisfaction score on patient education and satisfactions surveys."],
+      "technologies": [
+        "Patient Counseling", "Emotional Intelligence", "Empathetic and Effective Communication", "CPR", "Time Management"
+      ]
+    },
+    {
+      "company": "Lincoln Devlon Dental",
+      "title": "Dental Assistant",
+      "years": "07.2017 - 01.2019",
+      "description":["Boosted efficiency of patient procedures by 30%, increasing daily appointment availability from 6 to 10 as the first and only dental assistant in the office.  Modernized the record-keeping system by inputting 100% of the office's paper patient records and notes on a new digitized platform.  Spearheaded appointment reminder program, sending automated appointment reminders ahead of visit that reduced instance of no-shows by 85%.  Organized efficient stockroom system, cutting annual costs by $20,000 in a small, single-dentist office."],
+      "mainTech": [""],
+      "technologies": ["Organizational Development","Communication", "Office Management"]
+    },
+    {
+      "company": "University of North Carolina at Charlotte",
+      "title": "Bachelor's of Biological Science",
+      "years": "05.2021 - 08.2021",
+      "description":[""],
+      "mainTech": [""],
+      "technologies": [
+        "Full-Ride Merit Scholar", "Graduated With Honors", "Dean's List", "Cum Laude", "Student Organization Co-Founder"
+      ]
+    }
+  ]
+}

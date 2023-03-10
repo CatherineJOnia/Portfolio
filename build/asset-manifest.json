@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.76490d47.chunk.css",
+    "main.js": "/static/js/main.2bfdb07e.chunk.js",
+    "main.js.map": "/static/js/main.2bfdb07e.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.3a68f448.js",
+    "runtime-main.js.map": "/static/js/runtime-main.3a68f448.js.map",
+    "static/css/2.3eb2a443.chunk.css": "/static/css/2.3eb2a443.chunk.css",
+    "static/js/2.3cdb3411.chunk.js": "/static/js/2.3cdb3411.chunk.js",
+    "static/js/2.3cdb3411.chunk.js.map": "/static/js/2.3cdb3411.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.2ee20d92437437f647b32689b4c3c658.js": "/precache-manifest.2ee20d92437437f647b32689b4c3c658.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.3eb2a443.chunk.css.map": "/static/css/2.3eb2a443.chunk.css.map",
+    "static/css/main.76490d47.chunk.css.map": "/static/css/main.76490d47.chunk.css.map",
+    "static/js/2.3cdb3411.chunk.js.LICENSE.txt": "/static/js/2.3cdb3411.chunk.js.LICENSE.txt",
+    "static/media/App.scss": "/static/media/light-background.d05ff2d2.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3a68f448.js",
+    "static/css/2.3eb2a443.chunk.css",
+    "static/js/2.3cdb3411.chunk.js",
+    "static/css/main.76490d47.chunk.css",
+    "static/js/main.2bfdb07e.chunk.js"
+  ]
+}
