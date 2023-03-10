@@ -79,7 +79,7 @@ class ProjectDetailsModal extends Component {
           </div>
           <div className="col-md-10 mx-auto">
             <h3 style={{ padding: "5px 5px 0 5px" }}>
-              <p style={{ fontSize: "24px" }}>{title}</p>
+              <p style={{ fontSize: "24px", align: "center" }}>{title}</p>
               <div style={{ display: "flex", flexDirection: "row" }}>
                 {url ? (
                   <a
@@ -87,11 +87,12 @@ class ProjectDetailsModal extends Component {
                     target="_blank"
                     rel="noopener noreferrer"
                     className="link-href"
+                    color="#4285F4"
                   >
                     <img
                       src="https://img.icons8.com/glyph-neue/512/link.png"
                       alt="none"
-                      style={{ width: "24px" }}
+                      style={{ width: "24px", color: "#4285F4" }}
                     />
                   </a>
                 ) : null}
@@ -101,11 +102,16 @@ class ProjectDetailsModal extends Component {
                     target="_blank"
                     rel="noopener noreferrer"
                     className="link-href"
+                    color="#4285F4"
                   >
                     <img
                       src="https://img.icons8.com/glyph-neue/512/github.png"
                       alt="none"
-                      style={{ width: "25px", margin: "0 0 0 10px" }}
+                      style={{
+                        width: "25px",
+                        margin: "0 0 0 10px",
+                        color: "#4285F4",
+                      }}
                     />
                   </a>
                 ) : null}

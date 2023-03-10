@@ -19,80 +19,103 @@
           "level": "70"
         },
         {
-          "name": "React.js",
+          "name": "TypeScript",
+          "class": "devicon-typescript-plain",
+          "level": "70"
+        },
+        {
+          "name": "React",
           "class": "devicon-react-original",
           "level": "60"
         },
         {
-          "name": "HTML 5",
-          "class": "devicon-html5-plain",
-          "level": "95"
+          "name": "Redux",
+          "class": "devicon-redux-original",
+          "level": "60"
         },
         {
-          "name": "CSS 3",
-          "class": "devicon-css3-plain",
-          "level": "95"
-        },
-
-        {
-          "name": "Sass",
-          "class": "devicon-sass-original",
-          "level": "75"
+          "name": "Next.js",
+          "class": "devicon-nextjs-original-wordmark",
+          "level": "50"
         },
         {
-          "name": "Bootstrap",
-          "class": "devicon-bootstrap-plain",
-          "level": "85"
-        },
-
-        {
-          "name": "MongoDB",
-          "class": "devicon-mongodb-plain",
-          "level": "85"
-        },
-        {
-          "name": "Bootstrap",
+          "name": "Express.js",
           "class": "devicon-express-original",
           "level": "85"
         },
         {
           "name": "Node.js",
           "class": "devicon-nodejs-plain",
-          "level": "85"
+          "level": "95"
         },
         {
-          "name": "Express",
-          "class": "devicon-express-original",
-          "level": "85"
-        },
-        {
-          "name": "Heroku",
-          "class": "devicon-heroku-original",
-          "level": "85"
-        },
-        {
-          "name": "Python",
-          "class": "devicon-python-plain",
-          "level": "85"
-        },
-        {
-          "name": "MySQL",
-          "class": "devicon-mysql-plain",
-          "level": "85"
-        },
-        {
-          "name": "PostgresSQL",
+          "name": "PostgreSQL",
           "class": "devicon-postgresql-plain",
+          "level": "75"
+        },
+        {
+          "name": "Sequelize",
+          "class": "devicon-sequelize-plain",
           "level": "85"
         },
         {
-          "name": "Flask",
-          "class": "devicon-flask-original",
+          "name": "Firebase",
+          "class": "devicon-firebase-plain",
           "level": "85"
         },
         {
-          "name": "Django",
-          "class": "devicon-django-plain",
+          "name": "Webpack",
+          "class": "devicon-webpack-plain",
+          "level": "85"
+        },
+        {
+          "name": "Material-UI",
+          "class": "devicon-materialui-plain",
+          "level": "85"
+        },
+        {
+          "name": "CSS 3",
+          "class": "devicon-css3-plain",
+          "level": "85"
+        },
+        {
+          "name": "HTML 5",
+          "class": "devicon-html5-plain",
+          "level": "85"
+        },
+        {
+          "name": "Tailwind  CSS",
+          "class": "devicon-tailwindcss-plain",
+          "level": "85"
+        },
+        {
+          "name": "Sass",
+          "class": "devicon-sass-original",
+          "level": "85"
+        },
+        {
+          "name": "npm",
+          "class": "devicon-npm-original-wordmark",
+          "level": "85"
+        },
+        {
+          "name": "VS Code",
+          "class": "devicon-vscode-plain",
+          "level": "85"
+        },
+        {
+          "name": "Git" ,
+          "class": "devicon-git-plain",
+          "level": "85"
+        },
+        {
+          "name": "GitHub",
+          "class": "devicon-github-original",
+          "level": "85"
+        },
+        {
+          "name": "Slack",
+          "class": "devicon-slack-plain",
           "level": "85"
         }
       ]
